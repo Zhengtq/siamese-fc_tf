@@ -1,0 +1,14 @@
+
+#PBS    -N  siameseFC_weight1                   
+#PBS    -o  ./run_ztqnet.out
+#PBS    -e  ./run_ztqnet.err
+#PBS    -l nodes=1:gpus=2:D
+#PBS    -r y 
+
+cd $PBS_O_WORKDIR 
+echo Time is `date` 
+echo Directory is $PWD 
+echo This job runs on following nodes and gpus: 
+cat $PBS_NODEFILE 
+cat $PBS_GPUFILE
+python ~/ztqnet_class/train_net.py

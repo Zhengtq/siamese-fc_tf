@@ -1,0 +1,447 @@
+Time is Wed Mar 1 16:05:01 CST 2017
+Directory is /home/zhengtq/ztqnet_class
+This job runs on following nodes and gpus:
+Gpu109
+Gpu109-gpu9
+Gpu109-gpu8
+True
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2400
+2500
+2600
+2700
+2800
+2900
+3000
+3100
+3200
+3300
+3400
+3500
+3600
+3700
+3800
+3900
+4000
+4100
+4200
+4300
+4400
+4500
+4600
+4700
+4800
+4900
+5000
+epo_num: 0   epo_percent: 0.00   loss: 3.064252    time: 14.21  expected_time: 1.85h
+epo_num: 0   epo_percent: 0.01   loss: 2.671665    time: 1.34  expected_time: 0.17h
+epo_num: 0   epo_percent: 0.03   loss: 2.767798    time: 1.23  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.04   loss: 3.182528    time: 1.24  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.05   loss: 2.294647    time: 1.24  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.06   loss: 3.179488    time: 1.21  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.08   loss: 2.470164    time: 1.23  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.09   loss: 3.163872    time: 1.23  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.10   loss: 2.821120    time: 1.23  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.12   loss: 2.523012    time: 1.21  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.13   loss: 2.557252    time: 1.23  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.14   loss: 2.609807    time: 1.23  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.15   loss: 2.092101    time: 1.24  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.17   loss: 2.520361    time: 1.22  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.18   loss: 2.553417    time: 1.24  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.19   loss: 2.180080    time: 1.24  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.21   loss: 2.310456    time: 1.24  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.22   loss: 2.184393    time: 1.24  expected_time: 0.16h
+epo_num: 0   epo_percent: 0.23   loss: 2.147453    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.24   loss: 2.299486    time: 1.24  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.26   loss: 2.088968    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.27   loss: 1.928331    time: 1.22  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.28   loss: 2.008031    time: 1.21  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.29   loss: 2.222496    time: 1.24  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.31   loss: 1.942122    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.32   loss: 1.860238    time: 1.24  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.33   loss: 1.861389    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.35   loss: 1.939646    time: 1.24  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.36   loss: 1.787678    time: 1.24  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.37   loss: 1.632231    time: 1.22  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.38   loss: 1.722695    time: 1.24  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.40   loss: 1.601202    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.41   loss: 1.812659    time: 1.24  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.42   loss: 1.526741    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.44   loss: 1.680531    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.45   loss: 1.659147    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.46   loss: 1.481540    time: 1.22  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.47   loss: 1.315049    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.49   loss: 1.487822    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.50   loss: 1.437676    time: 1.24  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.51   loss: 1.484993    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.53   loss: 1.582628    time: 1.22  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.54   loss: 1.363750    time: 1.24  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.55   loss: 1.410481    time: 1.23  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.56   loss: 1.465996    time: 1.25  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.58   loss: 1.416369    time: 1.24  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.59   loss: 1.347235    time: 1.24  expected_time: 0.15h
+epo_num: 0   epo_percent: 0.60   loss: 1.358444    time: 1.24  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.62   loss: 1.347479    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.63   loss: 1.340179    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.64   loss: 1.156710    time: 1.22  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.65   loss: 1.299209    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.67   loss: 1.297866    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.68   loss: 1.268335    time: 1.22  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.69   loss: 1.333309    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.71   loss: 1.335699    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.72   loss: 1.264412    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.73   loss: 1.316627    time: 1.24  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.74   loss: 1.198863    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.76   loss: 1.255790    time: 1.25  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.77   loss: 1.191605    time: 1.25  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.78   loss: 1.280303    time: 1.24  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.79   loss: 1.188457    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.81   loss: 1.174110    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.82   loss: 1.166774    time: 1.22  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.83   loss: 1.243052    time: 1.22  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.85   loss: 1.103969    time: 1.22  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.86   loss: 1.268962    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.87   loss: 1.206972    time: 1.24  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.88   loss: 1.176947    time: 1.21  expected_time: 0.13h
+epo_num: 0   epo_percent: 0.90   loss: 1.163806    time: 1.23  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.91   loss: 1.288336    time: 1.22  expected_time: 0.13h
+epo_num: 0   epo_percent: 0.92   loss: 1.103383    time: 1.24  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.94   loss: 1.246975    time: 1.24  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.95   loss: 1.273341    time: 1.24  expected_time: 0.14h
+epo_num: 0   epo_percent: 0.96   loss: 1.139523    time: 1.24  expected_time: 0.13h
+epo_num: 0   epo_percent: 0.97   loss: 1.143031    time: 1.24  expected_time: 0.13h
+epo_num: 0   epo_percent: 0.99   loss: 1.121297    time: 1.24  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.00   loss: 1.142998    time: 1.23  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.01   loss: 1.087291    time: 1.32  expected_time: 0.14h
+epo_num: 1   epo_percent: 0.03   loss: 1.118784    time: 1.22  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.04   loss: 1.141912    time: 1.25  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.05   loss: 1.025760    time: 1.24  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.06   loss: 1.190532    time: 1.22  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.08   loss: 1.076379    time: 1.23  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.09   loss: 1.216320    time: 1.22  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.10   loss: 1.184404    time: 1.21  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.12   loss: 1.095053    time: 1.24  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.13   loss: 1.091011    time: 1.24  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.14   loss: 1.094529    time: 1.22  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.15   loss: 1.120941    time: 1.23  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.17   loss: 1.178017    time: 1.23  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.18   loss: 1.136604    time: 1.24  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.19   loss: 1.128070    time: 1.24  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.21   loss: 1.124452    time: 1.25  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.22   loss: 1.084107    time: 1.23  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.23   loss: 1.115657    time: 1.24  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.24   loss: 1.150077    time: 1.22  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.26   loss: 1.097851    time: 1.23  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.27   loss: 1.058461    time: 1.23  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.28   loss: 1.125893    time: 1.22  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.29   loss: 1.171959    time: 1.20  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.31   loss: 1.106067    time: 1.22  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.32   loss: 1.077379    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.33   loss: 1.114109    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.35   loss: 1.110940    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.36   loss: 1.063676    time: 1.24  expected_time: 0.13h
+epo_num: 1   epo_percent: 0.37   loss: 1.051296    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.38   loss: 1.076561    time: 1.22  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.40   loss: 1.016225    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.41   loss: 1.106900    time: 1.21  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.42   loss: 1.011689    time: 1.22  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.44   loss: 1.115890    time: 1.22  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.45   loss: 1.085584    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.46   loss: 1.037683    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.47   loss: 0.949012    time: 1.21  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.49   loss: 1.070747    time: 1.24  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.50   loss: 1.049730    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.51   loss: 1.045161    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.53   loss: 1.108300    time: 1.24  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.54   loss: 1.005970    time: 1.22  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.55   loss: 1.025515    time: 1.24  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.56   loss: 1.041274    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.58   loss: 1.040770    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.59   loss: 1.035629    time: 1.20  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.60   loss: 1.056857    time: 1.21  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.62   loss: 1.029984    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.63   loss: 1.015121    time: 1.24  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.64   loss: 0.943144    time: 1.23  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.65   loss: 1.041207    time: 1.25  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.67   loss: 1.017427    time: 1.26  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.68   loss: 1.019810    time: 1.23  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.69   loss: 1.028055    time: 1.24  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.71   loss: 1.069933    time: 1.24  expected_time: 0.12h
+epo_num: 1   epo_percent: 0.72   loss: 0.997522    time: 1.23  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.73   loss: 1.065731    time: 1.22  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.74   loss: 0.939589    time: 1.23  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.76   loss: 1.030851    time: 1.23  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.77   loss: 0.982776    time: 1.22  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.78   loss: 1.058085    time: 1.23  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.79   loss: 0.995445    time: 1.23  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.81   loss: 1.001185    time: 1.23  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.82   loss: 0.970748    time: 1.24  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.83   loss: 1.032531    time: 1.24  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.85   loss: 0.929035    time: 1.25  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.86   loss: 1.040248    time: 1.25  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.87   loss: 0.994770    time: 1.25  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.88   loss: 0.999518    time: 1.23  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.90   loss: 1.004677    time: 1.24  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.91   loss: 1.087539    time: 1.25  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.92   loss: 0.945277    time: 1.23  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.94   loss: 1.044399    time: 1.24  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.95   loss: 1.074357    time: 1.22  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.96   loss: 0.977987    time: 1.23  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.97   loss: 1.002308    time: 1.24  expected_time: 0.11h
+epo_num: 1   epo_percent: 0.99   loss: 0.973603    time: 1.24  expected_time: 0.11h
+epo_num: 2   epo_percent: 0.00   loss: 0.968320    time: 1.23  expected_time: 0.11h
+epo_num: 2   epo_percent: 0.01   loss: 0.944630    time: 1.30  expected_time: 0.11h
+epo_num: 2   epo_percent: 0.03   loss: 0.976837    time: 1.20  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.04   loss: 0.984145    time: 1.23  expected_time: 0.11h
+epo_num: 2   epo_percent: 0.05   loss: 0.916693    time: 1.22  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.06   loss: 1.040814    time: 1.22  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.08   loss: 0.950142    time: 1.24  expected_time: 0.11h
+epo_num: 2   epo_percent: 0.09   loss: 1.050350    time: 1.25  expected_time: 0.11h
+epo_num: 2   epo_percent: 0.10   loss: 1.046353    time: 1.22  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.12   loss: 0.963963    time: 1.23  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.13   loss: 0.952580    time: 1.24  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.14   loss: 0.967132    time: 1.22  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.15   loss: 1.006384    time: 1.23  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.17   loss: 1.053074    time: 1.22  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.18   loss: 0.986607    time: 1.24  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.19   loss: 1.000154    time: 1.21  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.21   loss: 0.984735    time: 1.21  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.22   loss: 0.959019    time: 1.23  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.23   loss: 1.001254    time: 1.23  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.24   loss: 1.004915    time: 1.25  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.26   loss: 0.969565    time: 1.23  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.27   loss: 0.935748    time: 1.24  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.28   loss: 1.002438    time: 1.24  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.29   loss: 1.035147    time: 1.21  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.31   loss: 0.993095    time: 1.22  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.32   loss: 0.967602    time: 1.25  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.33   loss: 0.992606    time: 1.23  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.35   loss: 0.991034    time: 1.22  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.36   loss: 0.953095    time: 1.22  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.37   loss: 0.945983    time: 1.22  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.38   loss: 0.962208    time: 1.23  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.40   loss: 0.917117    time: 1.23  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.41   loss: 0.983485    time: 1.21  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.42   loss: 0.923572    time: 1.24  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.44   loss: 1.004428    time: 1.23  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.45   loss: 0.972182    time: 1.24  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.46   loss: 0.943445    time: 1.24  expected_time: 0.10h
+epo_num: 2   epo_percent: 0.47   loss: 0.869147    time: 1.24  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.49   loss: 0.973380    time: 1.23  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.50   loss: 0.950018    time: 1.24  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.51   loss: 0.946536    time: 1.24  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.53   loss: 1.003169    time: 1.23  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.54   loss: 0.916315    time: 1.22  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.55   loss: 0.935949    time: 1.23  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.56   loss: 0.937168    time: 1.21  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.58   loss: 0.941628    time: 1.22  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.59   loss: 0.951975    time: 1.22  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.60   loss: 0.971093    time: 1.24  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.62   loss: 0.943376    time: 1.22  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.63   loss: 0.923280    time: 1.24  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.64   loss: 0.876662    time: 1.24  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.65   loss: 0.961810    time: 1.26  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.67   loss: 0.933202    time: 1.22  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.68   loss: 0.941627    time: 1.24  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.69   loss: 0.933209    time: 1.23  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.71   loss: 0.977220    time: 1.21  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.72   loss: 0.914382    time: 1.23  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.73   loss: 0.982791    time: 1.20  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.74   loss: 0.861821    time: 1.22  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.76   loss: 0.955779    time: 1.23  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.77   loss: 0.913527    time: 1.23  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.78   loss: 0.981098    time: 1.23  expected_time: 0.09h
+epo_num: 2   epo_percent: 0.79   loss: 0.926497    time: 1.21  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.81   loss: 0.929937    time: 1.19  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.82   loss: 0.901919    time: 1.21  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.83   loss: 0.953928    time: 1.21  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.85   loss: 0.866404    time: 1.22  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.86   loss: 0.958858    time: 1.22  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.87   loss: 0.917243    time: 1.23  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.88   loss: 0.925170    time: 1.24  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.90   loss: 0.937219    time: 1.24  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.91   loss: 1.003500    time: 1.23  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.92   loss: 0.877791    time: 1.24  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.94   loss: 0.964468    time: 1.23  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.95   loss: 0.992635    time: 1.22  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.96   loss: 0.912765    time: 1.22  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.97   loss: 0.945233    time: 1.21  expected_time: 0.08h
+epo_num: 2   epo_percent: 0.99   loss: 0.911999    time: 1.23  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.00   loss: 0.897960    time: 1.23  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.01   loss: 0.881059    time: 1.34  expected_time: 0.09h
+epo_num: 3   epo_percent: 0.03   loss: 0.910018    time: 1.21  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.04   loss: 0.916845    time: 1.23  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.05   loss: 0.866099    time: 1.23  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.06   loss: 0.966729    time: 1.22  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.08   loss: 0.890252    time: 1.21  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.09   loss: 0.974649    time: 1.23  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.10   loss: 0.979906    time: 1.23  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.12   loss: 0.904517    time: 1.22  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.13   loss: 0.890771    time: 1.23  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.14   loss: 0.905179    time: 1.23  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.15   loss: 0.945675    time: 1.23  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.17   loss: 0.989494    time: 1.24  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.18   loss: 0.919292    time: 1.25  expected_time: 0.08h
+epo_num: 3   epo_percent: 0.19   loss: 0.938892    time: 1.22  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.21   loss: 0.916575    time: 1.24  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.22   loss: 0.898311    time: 1.22  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.23   loss: 0.941116    time: 1.22  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.24   loss: 0.938270    time: 1.24  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.26   loss: 0.906636    time: 1.23  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.27   loss: 0.877943    time: 1.22  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.28   loss: 0.939126    time: 1.23  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.29   loss: 0.967067    time: 1.22  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.31   loss: 0.933489    time: 1.24  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.32   loss: 0.909723    time: 1.23  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.33   loss: 0.927980    time: 1.22  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.35   loss: 0.930160    time: 1.24  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.36   loss: 0.896194    time: 1.26  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.37   loss: 0.893803    time: 1.23  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.38   loss: 0.901818    time: 1.24  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.40   loss: 0.866538    time: 1.23  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.41   loss: 0.920353    time: 1.21  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.42   loss: 0.876658    time: 1.23  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.44   loss: 0.945326    time: 1.22  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.45   loss: 0.912430    time: 1.23  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.46   loss: 0.892110    time: 1.22  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.47   loss: 0.825935    time: 1.23  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.49   loss: 0.917838    time: 1.24  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.50   loss: 0.892866    time: 1.23  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.51   loss: 0.891449    time: 1.22  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.53   loss: 0.943541    time: 1.25  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.54   loss: 0.866082    time: 1.27  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.55   loss: 0.885612    time: 1.23  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.56   loss: 0.883495    time: 1.24  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.58   loss: 0.887850    time: 1.25  expected_time: 0.07h
+epo_num: 3   epo_percent: 0.59   loss: 0.902302    time: 1.24  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.60   loss: 0.921897    time: 1.24  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.62   loss: 0.897132    time: 1.24  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.63   loss: 0.869110    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.64   loss: 0.837145    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.65   loss: 0.913392    time: 1.24  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.67   loss: 0.882527    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.68   loss: 0.895559    time: 1.22  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.69   loss: 0.878455    time: 1.22  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.71   loss: 0.924580    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.72   loss: 0.864323    time: 1.22  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.73   loss: 0.933085    time: 1.24  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.74   loss: 0.816309    time: 1.22  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.76   loss: 0.910168    time: 1.21  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.77   loss: 0.870760    time: 1.25  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.78   loss: 0.933219    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.79   loss: 0.884109    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.81   loss: 0.882594    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.82   loss: 0.858842    time: 1.25  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.83   loss: 0.906319    time: 1.22  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.85   loss: 0.827681    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.86   loss: 0.908574    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.87   loss: 0.870264    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.88   loss: 0.878949    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.90   loss: 0.893468    time: 1.22  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.91   loss: 0.950751    time: 1.24  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.92   loss: 0.834322    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.94   loss: 0.914636    time: 1.23  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.95   loss: 0.942436    time: 1.24  expected_time: 0.06h
+epo_num: 3   epo_percent: 0.96   loss: 0.871625    time: 1.22  expected_time: 0.05h
+epo_num: 3   epo_percent: 0.97   loss: 0.908061    time: 1.24  expected_time: 0.05h
+epo_num: 3   epo_percent: 0.99   loss: 0.871321    time: 1.24  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.00   loss: 0.855019    time: 1.23  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.01   loss: 0.840832    time: 1.33  expected_time: 0.06h
+epo_num: 4   epo_percent: 0.03   loss: 0.866546    time: 1.23  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.04   loss: 0.874201    time: 1.24  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.05   loss: 0.833784    time: 1.23  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.06   loss: 0.915513    time: 1.24  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.08   loss: 0.850299    time: 1.24  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.09   loss: 0.925053    time: 1.22  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.10   loss: 0.934278    time: 1.25  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.12   loss: 0.864998    time: 1.24  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.13   loss: 0.849600    time: 1.24  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.14   loss: 0.863294    time: 1.24  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.15   loss: 0.903109    time: 1.24  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.17   loss: 0.943789    time: 1.23  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.18   loss: 0.877987    time: 1.23  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.19   loss: 0.898722    time: 1.22  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.21   loss: 0.871525    time: 1.23  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.22   loss: 0.857767    time: 1.23  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.23   loss: 0.899711    time: 1.21  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.24   loss: 0.895743    time: 1.23  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.26   loss: 0.865250    time: 1.23  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.27   loss: 0.839998    time: 1.24  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.28   loss: 0.894458    time: 1.25  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.29   loss: 0.921508    time: 1.23  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.31   loss: 0.891433    time: 1.23  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.32   loss: 0.870231    time: 1.24  expected_time: 0.05h
+epo_num: 4   epo_percent: 0.33   loss: 0.883984    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.35   loss: 0.889842    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.36   loss: 0.857371    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.37   loss: 0.859466    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.38   loss: 0.860658    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.40   loss: 0.832954    time: 1.21  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.41   loss: 0.877488    time: 1.20  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.42   loss: 0.843987    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.44   loss: 0.905283    time: 1.24  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.45   loss: 0.871777    time: 1.24  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.46   loss: 0.856243    time: 1.25  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.47   loss: 0.795627    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.49   loss: 0.881364    time: 1.24  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.50   loss: 0.853387    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.51   loss: 0.853473    time: 1.24  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.53   loss: 0.901178    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.54   loss: 0.832243    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.55   loss: 0.849042    time: 1.21  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.56   loss: 0.847787    time: 1.22  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.58   loss: 0.850014    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.59   loss: 0.866493    time: 1.22  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.60   loss: 0.886493    time: 1.24  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.62   loss: 0.865580    time: 1.22  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.63   loss: 0.830763    time: 1.23  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.64   loss: 0.808818    time: 1.24  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.65   loss: 0.879474    time: 1.26  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.67   loss: 0.845924    time: 1.26  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.68   loss: 0.862372    time: 1.22  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.69   loss: 0.839751    time: 1.24  expected_time: 0.04h
+epo_num: 4   epo_percent: 0.71   loss: 0.888051    time: 1.24  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.72   loss: 0.828613    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.73   loss: 0.896664    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.74   loss: 0.783925    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.76   loss: 0.876632    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.77   loss: 0.839846    time: 1.21  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.78   loss: 0.898064    time: 1.22  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.79   loss: 0.853651    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.81   loss: 0.847228    time: 1.24  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.82   loss: 0.827890    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.83   loss: 0.872368    time: 1.22  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.85   loss: 0.799350    time: 1.24  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.86   loss: 0.872572    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.87   loss: 0.836461    time: 1.24  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.88   loss: 0.844563    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.90   loss: 0.861073    time: 1.24  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.91   loss: 0.913160    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.92   loss: 0.802388    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.94   loss: 0.878495    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.95   loss: 0.906555    time: 1.23  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.96   loss: 0.840226    time: 1.22  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.97   loss: 0.879883    time: 1.22  expected_time: 0.03h
+epo_num: 4   epo_percent: 0.99   loss: 0.840680    time: 1.23  expected_time: 0.03h
